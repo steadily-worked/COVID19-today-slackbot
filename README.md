@@ -1,6 +1,7 @@
 # covid19-today-slackbot
 
 Slackbot that informs COVID-19 confirmed cases today
+Production process in [here](https://steadily-worked.tistory.com/category/Slackbot)
 
 ## Change log
 
