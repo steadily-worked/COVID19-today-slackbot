@@ -48,7 +48,7 @@ python -m venv "your virtualenv name"
 
 #### run virtualenv
 ```Python
-source 'your virtualenv name'/bin/activate
+source "your virtualenv name"/bin/activate
 ```
 
 #### run slackbot.py
@@ -56,6 +56,6 @@ source 'your virtualenv name'/bin/activate
 python3 slackbot.py
 ```
 
-## result
+## Result
 
 <img width="427" alt="스크린샷 2021-02-03 오후 2 49 25" src="https://user-images.githubusercontent.com/61453718/106831094-a3ab2600-66d2-11eb-9b4e-32975cff0ba9.png">
